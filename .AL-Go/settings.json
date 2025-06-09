@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
-  "country": "us",
+  "country": "w1",
   "appSourceCopMandatoryAffixes": [
-    "<affix>"
+    "AWSLC"
   ],
   "appFolders": [],
   "testFolders": [],

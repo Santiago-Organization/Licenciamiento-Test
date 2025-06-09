@@ -3,29 +3,34 @@
   "name": "Licenciamiento",
   "publisher": "AW Latam",
   "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
+  "brief": "Licencing Module",
+  "description": "Licencing Module",
+  "privacyStatement": "https://localis365.github.io/Artware-LATAM-Localization-Help/TerminosCondicionesLicenciamiento/",
+  "EULA": "https://localis365.github.io/Artware-LATAM-Localization-Help/TerminosCondicionesLicenciamiento/",
+  "help": "https://localis365.github.io/Artware-LATAM-Localization-Help",
+  "url": "https://www.awglobal.tech/awlatam/#contacto",
+  "logo": "LogoLocalis365.png",
+  "contextSensitiveHelpUrl": "https://localis365.github.io/Artware-LATAM-Localization-Help/",
   "dependencies": [],
-  "screenshots": [],
-  "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 71147575,
       "to": 71148574
     }
   ],
+  "target": "Cloud",
+  "runtime": "14.0",
   "features": [
-    "NoImplicitWith"
+    "NoImplicitWith",
+    "TranslationFile",
+    "NoPromotedActionProperties"
   ],
   "resourceExposurePolicy": {
-    "allowDebugging": true,
+    "allowDebugging": false,
     "allowDownloadingSource": false,
-    "includeSourceInSymbolFile": false
+    "includeSourceInSymbolFile": false,
+    "applyToDevExtension": true
   }
 }

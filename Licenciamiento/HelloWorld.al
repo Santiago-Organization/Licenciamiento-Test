@@ -6,7 +6,7 @@ pageextension 71147575 "AWSLC CustomerListExt" extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hello world Licenciamiento');
+        Message('App published: Hello world');
     end;
 }
 

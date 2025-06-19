@@ -2,7 +2,7 @@
   "id": "4e50aecd-e293-4442-8a3f-7c84b675da57",
   "name": "Licenciamiento Test",
   "publisher": "AW Latam",
-  "version": "1.0.0.0",
+  "version": "1.1.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -24,22 +24,22 @@
       "version": "25.0.0.0"
     },
     {
-      "id":  "5d86850b-0d76-4eca-bd7b-951ad998e997",
-      "publisher":  "Microsoft",
-      "name":  "Tests-TestLibraries",
-      "version":  "25.0.0.0"
+      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "publisher": "Microsoft",
+      "name": "Tests-TestLibraries",
+      "version": "25.0.0.0"
     },
     {
-      "publisher":  "Microsoft",
-      "name":  "Library Variable Storage",
-      "id":  "5095f467-0a01-4b99-99d1-9ff1237d286f",
-      "version":  "25.0.0.0"
+      "publisher": "Microsoft",
+      "name": "Library Variable Storage",
+      "id": "5095f467-0a01-4b99-99d1-9ff1237d286f",
+      "version": "25.0.0.0"
     },
     {
       "publisher": "AW Latam",
       "name": "Licenciamiento",
       "id": "ceb476aa-d832-43d1-8e42-c497fc70c6a9",
-      "version": "1.0.0.0"
+      "version": "1.1.0.0"
     }
   ],
   "screenshots": [],
@@ -51,7 +51,7 @@
       "to": 71000
     }
   ],
-  "runtime":  "14.0",
+  "runtime": "14.0",
   "features": [
     "NoImplicitWith"
   ],
